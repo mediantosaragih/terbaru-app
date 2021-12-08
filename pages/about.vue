@@ -1,3 +1,3 @@
 <template>
-  <p> asd</p>
+  <h1> About</h1>
 </template>
