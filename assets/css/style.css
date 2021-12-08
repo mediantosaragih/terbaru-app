@@ -1,0 +1,10 @@
+main{
+  background-color: red;
+}
+template{
+  background-color: red;
+}
+body{
+  background-image: url(/assets/img/bg-1.jpg);
+  background-repeat:repeat-x
+}
