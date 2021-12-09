@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-md-12">
         <h1 style="text-align: center;margin-top: 40px;padding: 70px;color: #737373;">
-          LITERASIA E-SMART
+          LITERASIA E-Pusda
         </h1>
       </div>
       <div class="col-md-7" style="padding-left: 200px; text-align: justify">
@@ -23,7 +23,7 @@
       </div>
       <div class="col-md-12">
         <h1 style="text-align: center;margin-top: 40px;padding: 70px;color: #737373;">
-          FITUR LITERASIA E-Smart
+          FITUR LITERASIA E-Pusda
         </h1>
       </div>
     </div>

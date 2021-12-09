@@ -24,24 +24,24 @@
         </h1>
       </div>
     </div>
-    <div class="row" style="margin-top: 100px">
+    <div class="row" style="margin-top: 20px">
         <nuxt-link to = "/perpustakaan">
           <img
           src="../assets/img/perpustakaan.png"
-          title="Perpustakaan Digital"
-          style="width: 400px; height: 300px">
+          title="Media Perpustakaan Digital"
+          style="width: 200px; height: 200px; margin-left: 200px">
         </nuxt-link>
         <nuxt-link to = "/administrasi">
           <img
           src="../assets/img/administrasi.jpg"
-          title="Administrasi Digitalisasi Desa"
-          style="width: 400px; height: 300px">
+          title="Media Administrasi Digitalisasi Desa"
+          style="width: 200px; height: 200px; margin-left: 200px">
         </nuxt-link>
         <nuxt-link to = "/informasi">
           <img
           src="../assets/img/informasi.png"
-          title="Informasi dan Komunikasi Desa"
-          style="width: 400px; height: 300px">
+          title="Media Informasi dan Komunikasi Desa"
+          style="width: 200px; height: 200px; margin-left: 200px">
         </nuxt-link>
     </div>
   </div>
