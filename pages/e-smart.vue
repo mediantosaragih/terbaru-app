@@ -1,4 +1,6 @@
 <template>
+<div>
+  <Navbar />
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
@@ -48,6 +50,7 @@
         </nuxt-link>
     </div>
   </div>
+</div>
 </template>
 
 <script></script>

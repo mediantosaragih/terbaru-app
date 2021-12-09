@@ -9,9 +9,9 @@
           />
       <b-navbar-nav style="margin-left:400px;">
         <b-nav-item-dropdown text="Produk" right>
-          <b-dropdown-item to="/about">Literasia E-Smart</b-dropdown-item>
-          <b-dropdown-item href="#">Literasia Smart Village</b-dropdown-item>
-          <b-dropdown-item href="#">Literasia E-Pusda</b-dropdown-item>
+          <b-dropdown-item to="/e-smart">Literasia E-Smart</b-dropdown-item>
+          <b-dropdown-item href="/smart_village">Literasia Smart Village</b-dropdown-item>
+          <b-dropdown-item href="e-pusda">Literasia E-Pusda</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item href="#">Hubungi Kami</b-nav-item>
         <b-nav-item href="#">Bantuan</b-nav-item>
