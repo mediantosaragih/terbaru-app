@@ -1,5 +1,7 @@
 <template>
-  <div class="container-fluid">
+<div>
+  <Navbar />
+  <div class="container-fluid ">
     <div class="row">
       <div class="col-md-12">
         <h1 style="text-align: center;margin-top: 40px;padding: 70px;color: #737373;">
@@ -78,6 +80,8 @@
       </div>
     </div>
   </div>
+  <Footer />
+</div>
 </template>
 
 <script></script>
