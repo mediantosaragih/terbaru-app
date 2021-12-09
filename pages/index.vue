@@ -5,7 +5,7 @@
     <div class="row">
       <div class="col-md-12">
         <h1 style="text-align: center;margin-top: 40px;padding: 70px;color: #737373;">
-          LiTERASIA
+          <b>LiTERASIA</b>
           <span>EduTekno Digital</span>
         </h1>
       </div>
