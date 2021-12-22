@@ -96,7 +96,7 @@
             style="width: 300px; height: 70px;padding:15px;"
           />
           <p>Literasia adalah salah satu produk PT.Literasia Edutekno Digital.
-            Literasia merupakkan Perpustakaan Digital dan Media Pembelajaran Digital</p>
+            Literasia merupakkan Perpustakaan Digital dan Media Pembelajaran Digitalla</p>
         </div>
         <!-- Grid column -->
       </div>

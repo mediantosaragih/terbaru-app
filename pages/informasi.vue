@@ -220,12 +220,12 @@
     <div class="row" style="margin-top: 100px">
       <div class="col-md-7" style="padding-left: 200px; text-align: justify">
         <h4 style="color: #737373">
-          <b>Web Aadmin (Platform Administrasi Aplikasi)</b>
+          <b>Web Admin (Platform Administrasi Aplikasi)</b>
           <div class="row" style="padding-left: 15px; margin-top: 15px">
             Sebuah platform yang digunakan oleh operator admin desa/keluarahan
             untuk menginput data yang akan ditampilkan di aplikasi. Tampilan
             untuk Web Admin ini adalah tampilan desktop(tampilan komputer PC/Laptop)
-            agar memudahkan operator admin desa/keluarahan menginput data yang akan ditampilkan di aplikasi.
+            agar memudahkan operator admin desa/kelurahan menginput data yang akan ditampilkan di aplikasi.
           </div>
         </h4>
       </div>

@@ -1,4 +1,6 @@
 <template>
+<div>
+  <Navbar />
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
@@ -8,7 +10,7 @@
       </div>
       <div class="col-md-7" style="padding-left: 200px; text-align: justify">
         <h4 style="color: #737373">
-          Literasia E-Smart adalah salah satu produk dari PT.Literasia Edutekno Digital.
+          Literasia E-Pusda adalah salah satu produk dari PT.Literasia Edutekno Digital.
           Literasia merupakan Perpustakaan Digital dan Media Pembelajaran Digital,
           dimana sebuah aplikasi yang dapat meningkatkan minat baca dan membantu mempermudah proses
           belajar mengajar di sekolah mulai dari jenjang SD, SMP, SMA sampai perguruan tinggi.
@@ -48,6 +50,8 @@
         </nuxt-link>
     </div>
   </div>
+  <Footer />
+</div>
 </template>
 
 <script></script>

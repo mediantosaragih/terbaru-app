@@ -50,6 +50,7 @@
         </nuxt-link>
     </div>
   </div>
+  <Footer />
 </div>
 </template>
 

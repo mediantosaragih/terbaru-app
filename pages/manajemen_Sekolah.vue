@@ -4,7 +4,7 @@
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-12">
-        <h1 style="text-align: center;margin-top: 5px;padding: 70px;color: #737373;">
+        <h1 style="text-align: center;margin-top: 50px;padding: 90px;color: #737373;">
           Sistem Manajemen Sekolah
         </h1>
       </div>

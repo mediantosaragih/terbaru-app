@@ -13,9 +13,9 @@
           <b-dropdown-item href="/smart_village">Literasia Smart Village</b-dropdown-item>
           <b-dropdown-item href="e-pusda">Literasia E-Pusda</b-dropdown-item>
         </b-nav-item-dropdown>
-        <b-nav-item href="#">Hubungi Kami</b-nav-item>
-        <b-nav-item href="#">Bantuan</b-nav-item>
-        <b-nav-item href="#">Kantor Pemasaran</b-nav-item>
+        <b-nav-item href="/hubungi_kami">Hubungi Kami</b-nav-item>
+        <b-nav-item href="https://help.literasia.co.id">Bantuan</b-nav-item>
+        <b-nav-item href="/kantor_pemasaran">Kantor Pemasaran</b-nav-item>
       </b-navbar-nav>
     </b-navbar>
   </div>
