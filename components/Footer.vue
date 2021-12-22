@@ -89,7 +89,7 @@
 
         <!-- Grid column -->
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-          <!-- Links -->
+          <!-- Link -->
                     <img
             src="../assets/img/logo.png"
             alt="Logo"
