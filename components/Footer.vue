@@ -82,7 +82,7 @@
             <a href="#!" class="text-reset">Dokumentasi</a>
           </p>
           <p>
-            <a href="#!" class="text-reset">Kantor Pemasaran</a>
+            <a href="#!" class="text-reset">Kantor Pemasaran kantor</a>
           </p>
         </div>
         <!-- Grid column -->
