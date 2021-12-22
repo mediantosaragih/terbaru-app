@@ -85,7 +85,7 @@
             <a href="#!" class="text-reset">Kantor Pemasaran kantor</a>
           </p>
         </div>
-        <!-- Grid  column -->
+        <!-- Grid  /column -->
 
         <!-- Grid column -->
         <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
