@@ -89,21 +89,21 @@
       <div class = row>
         <div class="col-md-1">
         </div>
-      <div class="col-md-5" style="padding-left: 110px; text-align: justify">
+      <div class="col-md-5" style="padding-left: 200px; text-align: justify">
 
       </div>
       <div class="col-md-1">
         <img
           src="../assets/img/kontak/logo_wa.png"
           alt="Bantuan"
-          style="width: 50px; height: 50px; margin-left: 130px; margin-top: 50px"
+          style="width: 50px; height: 50px; margin-left: 270px; margin-top: 50px"
         />
         </div>
-      <div class="col-md-5" style="padding-left: 140px; text-align: justify; margin-top: 60px">
+      <div class="col-md-5" style="padding-left: 250px; text-align: justify; margin-top: 60px">
         <h4 style="color: #737373">
          Informasi  : +62819 4903 8300
-         Admin      : +62819 1906 9330
-         IT Support : +62819 6859 6530
+         <br>Admin  : +62819 1906 9330
+         <br>IT Support : +62819 6859 6530
         </h4>
       </div>
       </div>
